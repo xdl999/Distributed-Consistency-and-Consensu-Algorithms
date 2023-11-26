@@ -14,6 +14,7 @@ Distributed Consistency and Consensus Algorithms This database is used to organi
 * In Search of an Understandable Consensus Algorithm[[ATC'14](https://www.usenix.org/system/files/conference/atc14/atc14-paper-ongaro.pdf),[dl](https://www.usenix.org/conference/atc14/technical-sessions/presentation/ongaro)]
   * []()
 
+### Contrast
 * Paxos vs Raft: Have we reached consensus on distributed consensus?[[PaPoC'20](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Howard+H%2C+Mortier+R.+Paxos+vs+Raft%3A+Have+we+reached+consensus+on+distributed+consensus&btnG=)]
 * On the Parallels between Paxos and Raft, and how to Port Optimizations[[PODC'19](http://mpaxos.com/pub/raft-paxos.pdf)]
 
