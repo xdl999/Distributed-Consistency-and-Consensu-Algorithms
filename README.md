@@ -4,14 +4,14 @@ Distributed Consistency and Consensus Algorithms This database is used to organi
 
 ## [ 0 :The most classic consensus algorithm ]
 ### Paxos and variants
-*The part-time parliament[paper](https://dl.acm.org/doi/abs/10.1145/3335772.3335939)
-  *Paxos Made Simple[paper](https://www.microsoft.com/en-us/research/publication/paxos-made-simple/)
+*The part-time parliament[[paper](https://dl.acm.org/doi/abs/10.1145/3335772.3335939)]
+  *Paxos Made Simple[paper][(https://www.microsoft.com/en-us/research/publication/paxos-made-simple/)]
   *Multipaxos | Paxos made live: an engineering perspective[PODC'07|](https://dl.acm.org/doi/abs/10.1145/1281100.1281103)
   *Egalitarian Paxos[paper](https://www.usenix.org/system/files/nsdip13-paper14.pdf)
   *There is more consensus in Egalitarian parliaments[SOSP'13](https://dl.acm.org/doi/abs/10.1145/2517349.2517350)
 
 ### Raft and variants
-*In Search of an Understandable Consensus Algorithm[[ATC'14](https://www.usenix.org/system/files/conference/atc14/atc14-paper-ongaro.pdf)[dl](https://www.usenix.org/conference/atc14/technical-sessions/presentation/ongaro)]
+*In Search of an Understandable Consensus Algorithm[[ATC'14](https://www.usenix.org/system/files/conference/atc14/atc14-paper-ongaro.pdf),[dl](https://www.usenix.org/conference/atc14/technical-sessions/presentation/ongaro)]
   *[]()
 
 *Paxos vs Raft: Have we reached consensus on distributed consensus?[ PaPoC'20](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Howard+H%2C+Mortier+R.+Paxos+vs+Raft%3A+Have+we+reached+consensus+on+distributed+consensus&btnG=)
