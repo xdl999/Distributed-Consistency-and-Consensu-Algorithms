@@ -21,7 +21,7 @@ Distributed Consistency and Consensus Algorithms This database is used to organi
   * Near-Optimal Latency Versus Cost Tradeoffs in Geo-Distributed Storage[[NSDI'20](https://www.usenix.org/conference/nsdi20/presentation/uluyol)]
 
 ## [ 2 :Other related papers ]
-  *Hydra: Serialization-Free Network Ordering for Strongly Consistent Distributed Applications[[Nsdi'23](https://www.usenix.org/system/files/nsdi23-choi.pdf)]
+  * Hydra: Serialization-Free Network Ordering for Strongly Consistent Distributed Applications[[Nsdi'23](https://www.usenix.org/system/files/nsdi23-choi.pdf)]
   * On Modular Learning of Distributed Systems for Predicting End-to-End Latency[[Nsdi'23](https://www.usenix.org/system/files/nsdi23-liang-chieh-jan.pdf)
   * Electrode: Accelerating Distributed Protocols with eBPF[[Nsdi'23](https://www.usenix.org/conference/nsdi23/presentation/zhou)]
   * Waverunner: An Elegant Approach to Hardware Acceleration of State Machine Replication[[Nsdi'23](https://www.usenix.org/conference/nsdi23/presentation/alimadadi)]
