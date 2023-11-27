@@ -29,7 +29,7 @@ Distributed Consistency and Consensus Algorithms This database is used to organi
 
 ## [ 2 : Other related papers ]
   * Hydra: Serialization-Free Network Ordering for Strongly Consistent Distributed Applications[[Nsdi'23](https://www.usenix.org/system/files/nsdi23-choi.pdf)]
-  * On Modular Learning of Distributed Systems for Predicting End-to-End Latency[[Nsdi'23](https://www.usenix.org/system/files/nsdi23-liang-chieh-jan.pdf)
+  * On Modular Learning of Distributed Systems for Predicting End-to-End Latency[[Nsdi'23](https://www.usenix.org/system/files/nsdi23-liang-chieh-jan.pdf)]
   * Electrode: Accelerating Distributed Protocols with eBPF[[Nsdi'23](https://www.usenix.org/conference/nsdi23/presentation/zhou)]
   * Waverunner: An Elegant Approach to Hardware Acceleration of State Machine Replication[[Nsdi'23](https://www.usenix.org/conference/nsdi23/presentation/alimadadi)]
   * Skyplane: Optimizing Transfer Cost and Throughput Using Cloud-Aware Overlays[[Nsdi'23](https://arxiv.org/abs/2210.07259)]
