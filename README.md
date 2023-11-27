@@ -2,6 +2,7 @@
 Distributed Consistency and Consensus Algorithms This database is used to organize and display literature and papers related to distributed consensus algorithms and hierarchical management of related papers (0: the most basic paper, 1: the most relevant paper, 2: other related papers)
 
 
+
 ## [ 0 : The most classic consensus algorithm ]
 ### Paxos and variants
 * Original Paxos | The part-time parliament[[paper](https://dl.acm.org/doi/abs/10.1145/3335772.3335939)]
@@ -14,7 +15,7 @@ Distributed Consistency and Consensus Algorithms This database is used to organi
   * SwiftPaxos: Fast Geo-Replicated State Machine[[Nsdi'24](https://software.imdea.org/events/software-seminars/2021/03-16/)]
 ### Raft and variants
 * In Search of an Understandable Consensus Algorithm[[ATC'14](https://www.usenix.org/system/files/conference/atc14/atc14-paper-ongaro.pdf),[dl](https://www.usenix.org/conference/atc14/technical-sessions/presentation/ongaro)]
-  * Elastic, geo-distributed RAFT[IWQoS'19](https://dl.acm.org/doi/abs/10.1145/3326285.3329046)
+  * Elastic, geo-distributed RAFT[[IWQoS'19](https://dl.acm.org/doi/abs/10.1145/3326285.3329046)]
 
 ### Contrast
 * Paxos vs Raft: Have we reached consensus on distributed consensus?[[PaPoC'20](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Howard+H%2C+Mortier+R.+Paxos+vs+Raft%3A+Have+we+reached+consensus+on+distributed+consensus&btnG=)]
