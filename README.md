@@ -24,10 +24,12 @@ Distributed Consistency and Consensus Algorithms This database is used to organi
 ## [ 1 : the most relevant paper ]  
   * SLOG: serializable, low-latency, geo-replicated transactions[[VLDB'19](https://par.nsf.gov/servlets/purl/10126332)]
   * CockroachDB: The Resilient Geo-Distributed SQL Database[[SIGMOD'19](https://dl.acm.org/doi/abs/10.1145/3318464.3386134)]
+  * Linearizable State Machine Replication of State-Based CRDTs without Logs[[PODC '19](https://dl.acm.org/doi/abs/10.1145/3293611.3331568)]
+  * GeoGauss: Strongly Consistent and Light-Coordinated OLTP for Geo-Replicated SQL Database[[SIMOD'23](https://dl.acm.org/doi/abs/10.1145/3588916)]
   * Near-Optimal Latency Versus Cost Tradeoffs in Geo-Distributed Storage[[NSDI'20](https://www.usenix.org/conference/nsdi20/presentation/uluyol)]
   * Cost-Effective Strong Consistency on Scalable Geo-Diverse Data Replicas[[paper](https://ieeexplore.ieee.org/abstract/document/9740519)]
 
-## [ 2 : Other related papers ]
+## [ 2 : Other related papers ]S
   * Hydra: Serialization-Free Network Ordering for Strongly Consistent Distributed Applications[[Nsdi'23](https://www.usenix.org/system/files/nsdi23-choi.pdf)]
   * On Modular Learning of Distributed Systems for Predicting End-to-End Latency[[Nsdi'23](https://www.usenix.org/system/files/nsdi23-liang-chieh-jan.pdf)]
   * Electrode: Accelerating Distributed Protocols with eBPF[[Nsdi'23](https://www.usenix.org/conference/nsdi23/presentation/zhou)]
