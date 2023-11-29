@@ -29,7 +29,7 @@ Distributed Consistency and Consensus Algorithms This database is used to organi
   * Near-Optimal Latency Versus Cost Tradeoffs in Geo-Distributed Storage[[NSDI'20](https://www.usenix.org/conference/nsdi20/presentation/uluyol)]
   * Cost-Effective Strong Consistency on Scalable Geo-Diverse Data Replicas[[paper](https://ieeexplore.ieee.org/abstract/document/9740519)]
 
-## [ 2 : Other related papers ]S
+## [ 2 : Other related papers ]
   * Hydra: Serialization-Free Network Ordering for Strongly Consistent Distributed Applications[[Nsdi'23](https://www.usenix.org/system/files/nsdi23-choi.pdf)]
   * On Modular Learning of Distributed Systems for Predicting End-to-End Latency[[Nsdi'23](https://www.usenix.org/system/files/nsdi23-liang-chieh-jan.pdf)]
   * Electrode: Accelerating Distributed Protocols with eBPF[[Nsdi'23](https://www.usenix.org/conference/nsdi23/presentation/zhou)]
@@ -40,5 +40,6 @@ Distributed Consistency and Consensus Algorithms This database is used to organi
 ### onsensus for geo-distributed systems
 
   * Planet-scale leaderless consensus[[paper](http://repositorium.uminho.pt/handle/1822/81307)]
+  
 #### SMR:State-machine replication
   * State-machine replication for planet-scale systems[[EuroSys'20](https://dl.acm.org/doi/abs/10.1145/3342195.3387543)]
