@@ -13,6 +13,7 @@ Distributed Consistency and Consensus Algorithms This database is used to organi
   * Egalitarian Paxos[[paper](https://www.usenix.org/system/files/nsdip13-paper14.pdf)]
     * There is more consensus in Egalitarian parliaments[[SOSP'13](https://dl.acm.org/doi/abs/10.1145/2517349.2517350)]
   * SwiftPaxos: Fast Geo-Replicated State Machine[[Nsdi'24](https://software.imdea.org/events/software-seminars/2021/03-16/)]
+  * SDPaxos: Building Efficient Semi-Decentralized Geo-replicated State Machines[[SoCC'18](https://www.microsoft.com/en-us/research/uploads/prod/2018/09/172-zhao.pdf)]
 ### Raft and variants
 * In Search of an Understandable Consensus Algorithm[[ATC'14](https://www.usenix.org/system/files/conference/atc14/atc14-paper-ongaro.pdf),[dl](https://www.usenix.org/conference/atc14/technical-sessions/presentation/ongaro)]
   * Elastic, geo-distributed RAFT[[IWQoS'19](https://dl.acm.org/doi/abs/10.1145/3326285.3329046)]
