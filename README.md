@@ -4,6 +4,9 @@ Distributed Consistency and Consensus Algorithms This database is used to organi
 
 
 ## [ 0 : The most classic consensus algorithm ]
+### Classic
+* Spanner: Google’s Globally Distributed Database[[TOCS'13](https://dl.acm.org/doi/abs/10.1145/2491245)]
+
 ### Paxos and variants
 * Original Paxos | The part-time parliament[[paper](https://dl.acm.org/doi/abs/10.1145/3335772.3335939)]
   * Paxos Made Simple[[paper](https://www.microsoft.com/en-us/research/publication/paxos-made-simple/)]
@@ -36,11 +39,9 @@ Distributed Consistency and Consensus Algorithms This database is used to organi
   * Electrode: Accelerating Distributed Protocols with eBPF[[Nsdi'23](https://www.usenix.org/conference/nsdi23/presentation/zhou)]
   * Waverunner: An Elegant Approach to Hardware Acceleration of State Machine Replication[[Nsdi'23](https://www.usenix.org/conference/nsdi23/presentation/alimadadi)]
   * Skyplane: Optimizing Transfer Cost and Throughput Using Cloud-Aware Overlays[[Nsdi'23](https://arxiv.org/abs/2210.07259)]
-
-
-### onsensus for geo-distributed systems
-
+  * Calvin: fast distributed transactions for partitioned database systems[[SIGMOD'12](https://dl.acm.org/doi/abs/10.1145/2213836.2213838)]
   * Planet-scale leaderless consensus[[paper](http://repositorium.uminho.pt/handle/1822/81307)]
+  * Dynamo: amazon's highly available key-value store[[SIGOPS'07]](https://dl.acm.org/doi/abs/10.1145/1323293.1294281)
   
 #### SMR:State-machine replication
   * State-machine replication for planet-scale systems[[EuroSys'20](https://dl.acm.org/doi/abs/10.1145/3342195.3387543)]
