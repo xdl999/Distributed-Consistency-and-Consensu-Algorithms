@@ -42,6 +42,10 @@ Distributed Consistency and Consensus Algorithms This database is used to organi
   * Calvin: fast distributed transactions for partitioned database systems[[SIGMOD'12](https://dl.acm.org/doi/abs/10.1145/2213836.2213838)]
   * Planet-scale leaderless consensus[[paper](http://repositorium.uminho.pt/handle/1822/81307)]
   * Dynamo: amazon's highly available key-value store[[SIGOPS'07]](https://dl.acm.org/doi/abs/10.1145/1323293.1294281)
+
+  * MAGPIE: MPI’s Collective Communication Operations for Clustered Wide Area Systems[[PPoPP'99](https://dl.acm.org/doi/pdf/10.1145/301104.301116)]
+    This is a weakly related work focused on optimizing MPI to be efficient for WANs 
   
 #### SMR:State-machine replication
   * State-machine replication for planet-scale systems[[EuroSys'20](https://dl.acm.org/doi/abs/10.1145/3342195.3387543)]
+
